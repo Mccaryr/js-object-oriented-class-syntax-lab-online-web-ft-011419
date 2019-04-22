@@ -7,5 +7,5 @@ class BoardMember {
   veto(){
     return "No I must disagree."
   }
-  
+
 }
